@@ -10,9 +10,8 @@ A simple FiveM script that adds a ping command to check the player's ping and ad
 
 ## Installation
 
-1. Clone the repository or download the ZIP file.
-2. Place the `ping_command` folder in your server's resources directory.
-3. Add `start ping_command` to your `server.cfg` file.
+1. Place the `ping_command` folder in your server's resources directory.
+2. Add `start ping_command` to your `server.cfg` file.
 
 ## Configuration
 
